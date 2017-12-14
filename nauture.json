@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "imageUrl": "https://baperdev.github.io/images/nature/1.jpg",
+      "title": "Android Wallpaper 1"
+    },
+    {
+      "imageUrl": "https://baperdev.github.io/images/nature/2.jpg",
+      "title": "Android Wallpaper 2"
+    },
+    {
+      "imageUrl": "https://baperdev.github.io/images/nature/3.jpg",
+      "title": "Android Wallpaper 3"
+    },
+    {
+      "imageUrl": "https://baperdev.github.io/images/nature/4.jpg",
+      "title": "Android Wallpaper 4"
+    }
+  ]
+}
